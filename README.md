@@ -48,6 +48,8 @@ cd notebooks
 ```
 - Launch Jupyter-lab by typing ``jupyter-lab`` in your terminal and run the corresponding notebooks.
 
+Typical install time is 15-30 minutes. 
+
 ## How-To-Run
 
 
@@ -61,7 +63,7 @@ Each notebook provides an easy-to-use tutorial on how to use it. Code sections, 
 ```Python
 # Select...    #
 
-
+Typical run-time for the entire demoset is 30-60 minutes.
 
 #**************#
 ```
@@ -69,6 +71,8 @@ Each notebook provides an easy-to-use tutorial on how to use it. Code sections, 
 ### Further information
 
 For more detailed information about the code and its functionality, please refer to the [documentation file](/docs/documentation/Documentation.txt) and the code itself, which includes comments explaining the various functions and steps. Additionally, you may contact the authors for further assistance or clarification.
+
+This code has been tested successfully on a Windows-PC with a NVIDIA GeForce RTX 3060.
 
 ## Future Work
 
