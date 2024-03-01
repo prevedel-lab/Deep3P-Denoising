@@ -63,10 +63,9 @@ Each notebook provides an easy-to-use tutorial on how to use it. Code sections, 
 ```Python
 # Select...    #
 
-Typical run-time for the entire demoset is 30-60 minutes.
-
 #**************#
 ```
+Typical run-time for the entire demoset is 30-60 minutes.
 
 ### Further information
 
